@@ -3,8 +3,7 @@
 //  iOS Syntax Highlighter
 //
 //  Created by Andrew Boos on 4/3/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//
+//  Modifications beyond that all copyright (c) 2015 Shelby Munsch. All rights reserved.//
 
 #import <UIKit/UIKit.h>
 #import <CoreText/CoreText.h>
